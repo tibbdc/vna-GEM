@@ -1,0 +1,34 @@
+metabolites: 1000
+reactions:  1200
+genes:  600
+medium: 
+{'EX_co2_e': 1000.0,
+ 'EX_glc__D_e': 10.0,
+ 'EX_h2o_e': 1000.0,
+ 'EX_h_e': 1000.0,
+ 'EX_nh4_e': 1000.0,
+ 'EX_o2_e': 1000.0,
+ 'EX_pi_e': 1000.0}
+optimal rates:
+growth: 0.9
+ATP: 225
+Alanine:
+Arginine:
+Asparagine:
+Aspartic acid:
+Cysteine:
+Glutamine:
+Glutamic acid:
+Glycine:
+Histidine:
+Isoleucine:
+Leucine:
+Lysine:
+Methionine:
+Phenylalanine:
+Proline:
+Serine:
+Threonine:
+Tryptophan:
+Tyrosine:
+Valine:
