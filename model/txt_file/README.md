@@ -1,4 +1,8 @@
-## V.natriegens_model-name-1.0£ºĞŞ¸Ä±ß½çÌõ¼şºó°æ±¾£»
+##  ¸÷¸öÎÄ¼ş°æ±¾¿ØÖÆ£º
+
+### 1.0
+
+V.natriegens_model-name-1.0£ºĞŞ¸Ä±ß½çÌõ¼şºó°æ±¾£»
 
 ### 1.1£º
 
@@ -26,5 +30,8 @@ V.natriegens_model-name-1.4.2£º¶ÔV.natriegens_model-name-1.3.3ĞŞÕıbiomass unitsÏ
 
 V.natriegens_model-name-1.5.1£ºĞŞÕıbiomass unitsÏµÊıºóÖØĞÂ¼ÆËãbiomassÊ±£¬ÔÙ¶Ôbiomassµ¥Ìå½øĞĞgap filingºó£¬ÓÃADD_xxxxx±íÊ¾Ìí¼Ó·´Ó¦£»
 V.natriegens_model-name-1.5.2£ºĞŞÕıbiomass unitsÏµÊıºóÖØĞÂ¼ÆËãbiomassÊ±£¬ÔÙ¶Ôbiomassµ¥Ìå½øĞĞgap filingºó£¬ÓÃrxn_xxxxxµÄID±íÊ¾Ìí¼Ó·´Ó¦£»
+
+### 1.6
+
 V.natriegens_model-name-1.6.1£ºÖÊÁ¿¿ØÖÆ£¬¼ÌĞøĞŞÕıÄ£ĞÍÊ±£¬ÓÃADD_xxxxx±íÊ¾Ìí¼Ó·´Ó¦£»
-V.natriegens_model-name-1.6.2£ºÖÊÁ¿¿ØÖÆ£¬¼ÌĞøĞŞÕıÄ£ĞÍÊ±£¬ÓÃrxn_xxxxxµÄID±íÊ¾Ìí¼Ó·´Ó¦£»
+V.natriegens_model-name-1.6.2£ºÖÊÁ¿¿ØÖÆ£¬¼ÌĞøĞŞÕıÄ£ĞÍÊ±£¬ÓÃrxn_xxxxxµÄID±íÊ¾Ìí¼Ó·´Ó¦£»Add gene information
