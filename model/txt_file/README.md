@@ -34,8 +34,4 @@ V.natriegens_model-name-1.5.2：修正biomass units系数后重新计算biomass时，再对bio
 ### 1.6
 
 V.natriegens_model-name-1.6.1：质量控制，继续修正模型时，用ADD_xxxxx表示添加反应；
-V.natriegens_model-name-1.6.2：质量控制，继续修正模型时，用rxn_xxxxx的ID表示添加反应；
-
-### 1.7
-
-V.natriegens_model-name-1.7.1：Add gene information
+V.natriegens_model-name-1.6.2：质量控制，继续修正模型时，用rxn_xxxxx的ID表示添加反应；Add gene information
